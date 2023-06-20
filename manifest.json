@@ -1,0 +1,11 @@
+{
+    "name": "The Cricket Extension",
+    "version": "1.0.0",
+    "description": "It gives information about current cricket matches around the world",
+    "manifest_version": 3,
+    "author": "Shrijan",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "The Cricket Extension"
+    }
+}
